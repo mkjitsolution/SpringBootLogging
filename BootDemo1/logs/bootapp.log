@@ -1,0 +1,8 @@
+2020-10-12 10:12:59,936 INFO com.mkj.boot.app.BootDemo1.BootDemo1Application [main] Starting BootDemo1Application on LAPTOP-O93CNE08 with PID 15200 (started by ashis in D:\Ashish\Spring Boot Application\BootDemo1\BootDemo1)
+2020-10-12 10:12:59,939 DEBUG com.mkj.boot.app.BootDemo1.BootDemo1Application [main] Running with Spring Boot v2.1.10.RELEASE, Spring v5.1.11.RELEASE
+2020-10-12 10:12:59,939 INFO com.mkj.boot.app.BootDemo1.BootDemo1Application [main] No active profile set, falling back to default profiles: default
+2020-10-12 10:13:02,000 INFO com.mkj.boot.app.BootDemo1.BootDemo1Application [main] Started BootDemo1Application in 2.453 seconds (JVM running for 3.104)
+2020-10-12 10:13:21,192 ERROR com.mkj.boot.app.BootDemo1.MyWebController [http-nio-8083-exec-1] This is the  error logs Dog null
+2020-10-12 10:13:21,193 INFO com.mkj.boot.app.BootDemo1.MyWebController [http-nio-8083-exec-1] This is the info logs
+2020-10-12 10:13:21,194 WARN com.mkj.boot.app.BootDemo1.MyWebController [http-nio-8083-exec-1] This is the warning logs
+2020-10-12 10:13:21,194 TRACE com.mkj.boot.app.BootDemo1.MyWebController [http-nio-8083-exec-1] This is the trace logs
